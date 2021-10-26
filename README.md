@@ -9,7 +9,7 @@
 
 ---
 
-### [Dissertation: Natural Language Processing in Finance](https://github.com/MehmetFatihKarademir/Dissertation_Dissertation_Using_Word_Embedding_Models_to_Estimate_the_Risk_of_Financial_Portfolios)
+### [Dissertation: Natural Language Processing in Finance](https://github.com/MehmetFatihKarademir/Dissertation_NLP_in_Finance)
 
 - Derived Cosine Similarities of 20 companies based on their last 5 years 10-K annual reports.
 - Optimised the portfolio by using the Cosine Similarity Matrix
